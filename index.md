@@ -8,9 +8,11 @@ This research focuses on analyzing gene expression differences in macrophages in
 ## RNA-Seq Data Analysis
 
 Below are the results from my RNA-sequencing analysis for different experimental conditions. You can explore the data and results for each condition by clicking the links below.
-- [Analysis of 19606 vs Mock](results/Rmarkdown_19606_mock.html)
-- [Analysis of NFAB1 vs Mock](results/Rmarkdown_NFAB1_mock.html)
-- [Analysis of NFAB2 vs Mock](results/Rmarkdown_NFAB2_mock.html)
+
+- [Analysis of 19606 vs Mock](https://chocolatecarmine.github.io/NFAb-data/results/Rmarkdown_19606_mock.html)
+- [Analysis of NFAB1 vs Mock](https://chocolatecarmine.github.io/NFAb-data/results/Rmarkdown_NFAB1_mock.html)
+- [Analysis of NFAB2 vs Mock](https://chocolatecarmine.github.io/NFAb-data/results/Rmarkdown_NFAB2_mock.html)
+
 
 Feel free to browse through the analysis results. These files contain detailed results, visualizations, and interpretations from the RNA sequencing experiments.
 
