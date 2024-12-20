@@ -1,4 +1,3 @@
-# Transcriptional Responses to Necrotizing Fasciitis-causing *Acinetobacter baumannii* Infection
 
 Welcome to my project page for the research on necrotizing fasciitis caused by *Acinetobacter baumannii*. Below, you will find links to my analysis and results, generated using RMarkdown.
 
